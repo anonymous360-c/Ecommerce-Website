@@ -88,4 +88,3 @@ The project follows a **monorepo structure** with separate `frontend/` and `back
 └── vite.config.js # Vite build configuration
 ```
 
----
