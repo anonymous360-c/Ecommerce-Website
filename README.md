@@ -45,17 +45,3 @@
   - Optimized builds with Vite
 
 
-Folder Structure
-
-└── frontend/ # React client (Vite + Redux)
-├── src/
-│ ├── assets/ # Logos, favicon, and static media
-│ ├── components/ # UI components (Header, Footer, Search, etc.)
-│ ├── pages/ # Route-based views (Home, Cart, Checkout, etc.)
-│ ├── utils/ # Redux store & slices, custom hooks
-│ ├── App.jsx # App layout and routes
-│ └── main.jsx # Entry point with router and Redux provider
-├── package.json # Frontend dependencies
-└── vite.config.js # Vite build configuration
-```
-
