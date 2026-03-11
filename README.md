@@ -46,6 +46,7 @@
 
 
 Folder Structure
+
 └── frontend/ # React client (Vite + Redux)
 ├── src/
 │ ├── assets/ # Logos, favicon, and static media
